@@ -26,6 +26,8 @@ Forecasting and Goal Tracking: Tools that assist in setting sales targets, track
 When designing a sales data analysis dashboard, it is important to consider user requirements and ensure that the dashboard is intuitive, user-friendly, and customizable. It should provide relevant and actionable insights that support data-driven decision making within the sales organization.
 
 Overall, a sales data analysis dashboard empowers sales teams and management with a comprehensive view of sales performance, enabling them to make informed decisions, improve sales strategies, and drive business growth.
+
+
 ![Sales Dashboar](/Assets/Dashboard.png "Dashboard")
 
 Sales data analysis using a pivot table is a powerful technique that allows for the exploration and summarization of sales data from various angles. A pivot table is a data summarization tool commonly used in spreadsheet software, such as Microsoft Excel or Google Sheets. It enables users to transform raw sales data into meaningful insights by dynamically reorganizing and aggregating the data based on different dimensions and metrics.
